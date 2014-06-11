@@ -21,7 +21,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="col-sm-10 col-sm-offset-1 bannerBox">
                         <h1>We Build and Market for Online Retailers</h1>
                         <div class="bannerPar">
-                        <h4>Easy as C.P.C.</h4>
+                        <h4>For us it's as Easy as C.P.C.</h4>
                         </div>
                         <button class="btn-lg btn-success" data-toggle="modal" data-target="#audit-request">Start a Conversation</button>
                     </div>
@@ -37,11 +37,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="row">
                     <div class="col-sm-10 col-sm-offset-1 text-center">
                         <h2>BADGED GOOGLE PARTNERSHIP</h2> 
-                        <h4>...WHAT DOES THAT MEAN?</h4>
+                        <h4>WHAT THAT MEANS</h4>
                         <p>Aliquam iaculis libero quis nunc tristique, cursus lobortis ligula luctus. Phasellus lobortis mi ipsum, et aliquam ligula suscipit vitae. Morbi interdum metus vitae purus bibendum, vitae mollis est tincidunt. Cras faucibus eget ipsum et luctus. Nam purus diam, porta sit amet lorem eu, consequat ornare elit. Vestibulum laoreet congue tempus. Proin blandit libero mollis magna consequat, non aliquet tortor molestie. Maecenas imperdiet risus et sem laoreet mollis id nec sapien. Donec vel ligula sollicitudin, dictum mi at, ullamcorper libero. Morbi est sem, ultricies et condimentum eget, imperdiet vitae mi. Maecenas vel leo est.
                        </p></br>
                        <a href="https://www.google.com/partners/?hl=en-US#a_profile;idtf=4275950048;" target="_blank"><img src="img/google_partners_badge.png" alt="google partner"></a>
-                        <h2>WHY IS THAT VALUABLE FOR THE CUSTOMER?</h2>
+                        <h4>WHY IT'S VALUABLE FOR THE CUSTOMER</h4>
                         <p>Aliquam iaculis libero quis nunc tristique, cursus lobortis ligula luctus. Phasellus lobortis mi ipsum, et aliquam ligula suscipit vitae. Morbi interdum metus vitae purus bibendum, vitae mollis est tincidunt. Cras faucibus eget ipsum et luctus. Nam purus diam, porta sit amet lorem eu, consequat ornare elit. Vestibulum laoreet congue tempus. Proin blandit libero mollis magna consequat, non aliquet tortor molestie. Maecenas imperdiet risus et sem laoreet mollis id nec sapien. Donec vel ligula sollicitudin, dictum mi at, ullamcorper libero. Morbi est sem, ultricies et condimentum eget, imperdiet vitae mi. Maecenas vel leo est.
                     </div>
                 </div>
@@ -91,15 +91,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <div class="row text-center">
                                 <div class="col-sm-6 smallHeading">
                                     <div class="hovergallery">
-                                    <a href="#adam-leadership" role="button" class="caseButton" data-toggle="modal"><img src="img/adam.png" width="260px" height="260px" alt="Adam Yakish"></a>
+                                    <a href="#adam-leadership" role="button" class="caseButton" data-toggle="modal"><img src="img/adam.png" width="300px" height="300px" alt="Adam Yakish"></a>
                                     </div>
                                     <h4>Adam Yakish</h4>
                                     <p>DIRECTOR OF TECHNOLOGY</p>
-                                    <p><i>"Always the beautiful answer who asks a more beautiful question." -EE Cummings</i></p>
+                                    <p class="blockquote"><i>Always the beautiful answer who asks a more beautiful question</i>-EE Cummings</p>
                                 </div>
                                 <div class="col-sm-6 smallHeading">
                                     <div class="hovergallery">
-                                    <a href="#ryan-leadership" role="button" class="caseButton" data-toggle="modal"><img src="img/ryan.png" width="260px" height="260px" alt="Ryan Bardo"></a>
+                                    <a href="#ryan-leadership" role="button" class="caseButton" data-toggle="modal"><img src="img/ryan.png" width="300px" height="300px" alt="Ryan Bardo"></a>
                                     </div>
                                     <h4>Ryan Bardo</h4>
                                     <p>DIRECTOR OF OPERATIONS</p>

@@ -141,7 +141,6 @@ opacity: .5;
 }
 
 
-
 .hovergallery img{
 -webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
 -moz-transform:scale(0.8); /*Mozilla scale version*/
@@ -151,17 +150,31 @@ opacity: .5;
 -o-transition-duration: 0.5s; /*Opera duration version*/
 opacity: ; /*initial opacity of images*/
 margin: 0 10px 5px 0; /*margin between images*/
+  border-radius: 50%;
 }
 
 .hovergallery a img:hover{
--webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
--moz-transform:scale(1.1); /*Mozilla scale version*/
--o-transform:scale(1.1); /*Opera scale version*/
+-webkit-transform:scale(1.005); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.005); /*Mozilla scale version*/
+-o-transform:scale(1.005); /*Opera scale version*/
 box-shadow:0px 0px 30px green; /*CSS3 shadow: 30px blurred shadow all around image*/
 -webkit-box-shadow:0px 0px 30px green; /*Safari shadow version*/
 -moz-box-shadow:0px 0px 30px green; /*Mozilla shadow version*/
 opacity: 1;
 }
+
+.blockquote {
+ border : 1px solid #ccc;
+ width: 300px;
+ margin: 0px;
+ padding: 10px;
+ margin: 0 auto;
+ background-color: #fff;
+ quotes: "\201C" "\201D";
+ }
+ .blockquote:before { content: open-quote; font-weight: bold; }
+ .blockquote:after { content: close-quote; font-weight: bold; }
+
 .formButton{
   margin-bottom: 15px;
   font-family: Century Gothic, Arial, Courier New, Sans-Serif; 
