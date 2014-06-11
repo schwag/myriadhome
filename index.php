@@ -91,7 +91,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <div class="row text-center">
                                 <div class="col-sm-6 smallHeading">
                                     <div class="hovergallery">
-                                    <a href="#adam-leadership" role="button" class="caseButton" data-toggle="modal"><img src="img/adam.png" width="250px" height="250px" alt="Adam Yakish"></a>
+                                    <a href="#adam-leadership" role="button" class="caseButton" data-toggle="modal"><img src="img/adam.png" width="260px" height="260px" alt="Adam Yakish"></a>
                                     </div>
                                     <h4>Adam Yakish</h4>
                                     <p>DIRECTOR OF TECHNOLOGY</p>
@@ -99,7 +99,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 </div>
                                 <div class="col-sm-6 smallHeading">
                                     <div class="hovergallery">
-                                    <a href="#ryan-leadership" role="button" class="caseButton" data-toggle="modal"><img src="img/ryan.png" width="250px" height="250px" alt="Ryan Bardo"></a>
+                                    <a href="#ryan-leadership" role="button" class="caseButton" data-toggle="modal"><img src="img/ryan.png" width="260px" height="260px" alt="Ryan Bardo"></a>
                                     </div>
                                     <h4>Ryan Bardo</h4>
                                     <p>DIRECTOR OF OPERATIONS</p>
