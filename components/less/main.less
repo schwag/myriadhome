@@ -150,7 +150,7 @@ opacity: .5;
 -o-transition-duration: 0.5s; /*Opera duration version*/
 opacity: ; /*initial opacity of images*/
 margin: 0 10px 5px 0; /*margin between images*/
-  border-radius: 50%;
+border-radius: 50%;
 }
 
 .hovergallery a img:hover{
@@ -163,8 +163,29 @@ box-shadow:0px 0px 30px green; /*CSS3 shadow: 30px blurred shadow all around ima
 opacity: 1;
 }
 
+.hovergalleryTwo img{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: ; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+}
+
+.hovergalleryTwo a img:hover{
+-webkit-transform:scale(1.005); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.005); /*Mozilla scale version*/
+-o-transform:scale(1.005); /*Opera scale version*/
+box-shadow:0px 0px 30px green; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px green; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px green; /*Mozilla shadow version*/
+opacity: 1;
+}
+
 .blockquote {
- border : 1px solid #ccc;
+ /*border : 1px solid #1aa249;*/
  width: 300px;
  margin: 0px;
  padding: 10px;
@@ -172,8 +193,19 @@ opacity: 1;
  background-color: #fff;
  quotes: "\201C" "\201D";
  }
- .blockquote:before { content: open-quote; font-weight: bold; }
- .blockquote:after { content: close-quote; font-weight: bold; }
+ .blockquote i{
+  color: #888888;
+ }
+ .blockquote:before { 
+  content: open-quote; 
+  font-weight: bold; 
+  color: #888888;
+}
+ .blockquote:after { 
+  content: close-quote; 
+  font-weight: bold; 
+  color: #888888;
+}
 
 .formButton{
   margin-bottom: 15px;
@@ -236,6 +268,9 @@ opacity: 1;
   line-height: 2em;
   color: #000000;
   padding-left: 10px;
+}
+.greenBorder{
+  border-bottom: 1px solid #cccccc;
 }
 
 /*============================== Custom Media Queries ===============================*/

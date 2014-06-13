@@ -87,7 +87,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="row">
                     <div class="col-sm-10 col-sm-offset-1">
                         <h2 class="text-center">LEADERSHIP</h2>
-                        <p class="text-center">The leadership at Myriad Core is as diverse as it is forceful. Our clients are exposed to world class project management, fanatical support, cutting edge development and an array of professional services - all managed by a duo of excellent minds.</p>
+                        <p class="text-center greenBorder">The leadership at Myriad Core is as diverse as it is forceful. Our clients are exposed to world class project management, fanatical support, cutting edge development and an array of professional services - all managed by a duo of excellent minds.</p>
                             <div class="row text-center">
                                 <div class="col-sm-6 smallHeading">
                                     <div class="hovergallery">
@@ -95,7 +95,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     </div>
                                     <h4>Adam Yakish</h4>
                                     <p>DIRECTOR OF TECHNOLOGY</p>
-                                    <p class="blockquote"><i>Always the beautiful answer who asks a more beautiful question</i>-EE Cummings</p>
+                                    <p class="blockquote"><i>Always the beautiful answer who asks a more beautiful question</i></p>
+                                    <p>-EE Cummings</p>
                                 </div>
                                 <div class="col-sm-6 smallHeading">
                                     <div class="hovergallery">
@@ -103,7 +104,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     </div>
                                     <h4>Ryan Bardo</h4>
                                     <p>DIRECTOR OF OPERATIONS</p>
-                                    <p><i>"You play to win the game." -Herm Edwards</i></p>
+                                    <p class="blockquote"><i>You play to win the game</i></p>
+                                    <p>-Herm Edwards</p>
                                 </div>
                             </div>
                     </div>
@@ -176,7 +178,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="container">
                 <div class="row">
                     <div class="col-sm-5 col-sm-offset-1 text-center">
-                        <div class="hovergallery ">
+                        <div class="hovergalleryTwo">
                         <h2>STAY CONNECTED</h2>
                         <a href="https://twitter.com/myriadcore" target="_blank"><img src="img/twitter_green.png" alt="" width="50px" height="50px"></a>
                         <a href="https://www.facebook.com/MyriadCore" target="_blank"><img src="img/facebook_green.png" alt="" width="50px" height="50px"></a>
